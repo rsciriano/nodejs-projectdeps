@@ -58,4 +58,4 @@ C:\src\nodejs-projectdeps-main\node_modules\nodejs-projectdeps-module1
 
 Así es como queda la solución en **Visual Studio 2015** mostrando las dependencias entre paquetes:
  
-![Solución VS2015](./images/NodeDeps.png)
+![Solución VS2015](./images/NodeDeps.PNG)

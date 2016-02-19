@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-projectdeps-module1",
+  "version": "0.0.0",
+  "description": "nodejs-projectdeps-module1",
+  "main": "app.js",
+  "author": {
+    "name": "roberto",
+    "email": ""
+  },
+  "dependencies": {
+    "dockerctl": "0.0.0"
+  }
+}

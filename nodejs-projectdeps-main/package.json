@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-projectdeps-main",
+  "version": "0.0.0",
+  "description": "nodejs-projectdeps-main",
+  "main": "app.js",
+  "author": {
+    "name": "roberto",
+    "email": ""
+  },
+  "dependencies": {
+    "azure": "^0.10.6",
+    "nodejs-projectdeps-module1": "0.0.0"
+  }
+}

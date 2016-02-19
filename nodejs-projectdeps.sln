@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "nodejs-projectdeps-main", "nodejs-projectdeps-main\nodejs-projectdeps-main.njsproj", "{AE22AFDF-6B49-413E-9A53-AA393A7B1C98}"
+	ProjectSection(ProjectDependencies) = postProject
+		{2CAD7A3E-2799-4F42-8E30-2DC8DE9AAF96} = {2CAD7A3E-2799-4F42-8E30-2DC8DE9AAF96}
+	EndProjectSection
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "nodejs-projectdeps-module1", "nodejs-projectdeps-module1\nodejs-projectdeps-module1.njsproj", "{2CAD7A3E-2799-4F42-8E30-2DC8DE9AAF96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE22AFDF-6B49-413E-9A53-AA393A7B1C98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE22AFDF-6B49-413E-9A53-AA393A7B1C98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE22AFDF-6B49-413E-9A53-AA393A7B1C98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE22AFDF-6B49-413E-9A53-AA393A7B1C98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CAD7A3E-2799-4F42-8E30-2DC8DE9AAF96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CAD7A3E-2799-4F42-8E30-2DC8DE9AAF96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CAD7A3E-2799-4F42-8E30-2DC8DE9AAF96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CAD7A3E-2799-4F42-8E30-2DC8DE9AAF96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
